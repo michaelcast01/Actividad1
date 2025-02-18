@@ -17,6 +17,8 @@ public class Main {
         System.out.println("Git pull");
         System.out.println("Git push");
         System.out.println("Git commit -m ");
+        System.out.println("Git branch -d elimina rama de forma local");
+        System.out.println("Git push origin --delete elimina la rama de forma remota");
 
 
 

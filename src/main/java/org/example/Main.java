@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Git switch -c ");
         System.out.println("Git switch ");
         System.out.println("Git add .");
-        System.out.println("Git long");
+        System.out.println("Git log");
         System.out.println("Git pull");
         System.out.println("Git push");
         System.out.println("Git commit -m ");

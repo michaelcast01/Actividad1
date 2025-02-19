@@ -18,6 +18,8 @@ public class Main {
         System.out.println("Git commit -m ");
         System.out.println("Git branch -d elimina rama de forma local");
         System.out.println("Git push origin --delete elimina la rama de forma remota");
-
+        System.out.println("Git fetch - - all");
+        System.out.println("Git Branch -r");
+        System.out.println("Git clone");
     }
 }

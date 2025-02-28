@@ -21,5 +21,8 @@ public class Main {
         System.out.println("Git fetch - - all");
         System.out.println("Git Branch -r");
         System.out.println("Git clone");
+        System.out.println("Git merge");
+
+
     }
 }
